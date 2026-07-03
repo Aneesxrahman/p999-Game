@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://p999-game.vercel.app/sitemap.xml
