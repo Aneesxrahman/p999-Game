@@ -3,7 +3,7 @@
  * Replace DOWNLOAD_URL with your real download link before launch.
  */
 const DOWNLOAD_URL = 'https://777p999.com/?dl=9dscuj';
-const PLACEHOLDER_URL = 'https://777p999.com/?dl=9dscuj';
+const PLACEHOLDER_URL = 'DOWNLOAD_LINK_HERE';
 
 document.addEventListener('DOMContentLoaded', () => {
   initDownloadButtons();
